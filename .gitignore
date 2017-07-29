@@ -100,5 +100,5 @@ ENV/
 # mypy
 .mypy_cache/
 
-# kaggle submission file(s)
-submission.csv
+#OSX
+.DS_Store
